@@ -1,15 +1,17 @@
 # TO-DO-LISTS
 
-A simple and intuitive To-do list app developed in Android Studio, designed to help users manage their tasks efficiently.
+A simple and intuitive To-do list app developed in Android Studio, designed to help users manage their tasks efficiently.<br>
 
 
-Key features include:
-• Add Items: Quickly add tasks to your to-do list.
-• Edit Items: Easily modify tasks as needed.
-• Delete Items: Remove completed or unnecessary tasks.
-• Mark as Completed: Check off tasks when they're finished.
+Key features include:<br>
+• Add Items: Quickly add tasks to your to-do list.<br>
+• Edit Items: Easily modify tasks as needed.<br>
+• Delete Items: Remove completed or unnecessary tasks.<br>
+• Mark as Completed: Check off tasks when they're finished.<br>
 
-This app provides a straightforward solution to task management, keeping users organized with minimal effort.
+This app provides a straightforward solution to task management, keeping users organized with minimal effort.<br>
+
+## Screenshots
 
 ![SS1](https://github.com/arihantjain-aj/TO-DO-LISTS-CODSOFT/assets/121403074/ce676304-a2d0-4b1d-bfeb-c451f7ccc82a)
 
