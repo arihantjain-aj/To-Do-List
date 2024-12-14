@@ -1,6 +1,5 @@
-# TO-DO-LISTS-CODSOFT
+# TO-DO-LISTS
 
-Codsoft Android Internship Task-1
 Android Java project
 
 ![SS1](https://github.com/arihantjain-aj/TO-DO-LISTS-CODSOFT/assets/121403074/ce676304-a2d0-4b1d-bfeb-c451f7ccc82a)
